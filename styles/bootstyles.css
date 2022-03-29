@@ -1,0 +1,50 @@
+body{
+    background-color: darkseagreen;
+}
+
+.nav{
+    top: 5px;
+    left: 5px;
+    height: 100px;
+    right: 5px;
+    z-index: 2;
+    border-bottom:  solid 1px lightgrey;
+    text-align: center;
+}
+
+.tableau{
+    top: 110px;
+    left: 5px;
+    height: 100px;
+    right: 5px;
+    bottom: 125px;
+
+
+
+}
+
+p{
+    font-style: italic;
+    font-size: 15;
+    fill: beige;
+    border-left: black;
+}
+
+.links{
+    color: beige;
+}
+
+.footer{
+    right: 5px;
+    left: 5px;
+    height: 50px;
+    bottom: 25px;
+    text-align: center;
+    position: relative;
+
+}
+
+.copyright{
+    size: 10px;
+    color:antiquewhite
+}

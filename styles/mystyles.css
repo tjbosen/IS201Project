@@ -1,0 +1,35 @@
+body{
+    background-color: beige;
+}
+
+.header{
+    background-color: beige;
+}
+
+
+.titles{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15;
+    font-style: italic;
+    
+}
+
+
+.links{
+    color: white;
+    text-decoration: underline;
+
+}
+
+a:hover {
+    color:darkseagreen
+  }
+
+.hyperlink{
+    color: darkseagreen
+}
+
+.label{
+    font-style: italic;
+}
+
